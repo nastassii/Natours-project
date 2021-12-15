@@ -2,13 +2,7 @@
   <img src="/docs/animation/animation.gif" width="150">
 </p>
 <h1 align="center">Natours Landing Page Template</h1>
-<p>
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
-  <a href="https://medium.com/@sandoche" target="_blank"><img src="https://badgen.net/badge/icon/medium?icon=medium&label" alt="medium: sandoche"></a>
-  <a href="https://twitter.com/sandochee">
-    <img alt="Twitter: sandochee" src="https://img.shields.io/twitter/follow/sandochee.svg?style=social" target="_blank" />
-  </a>
-</p>
+
 
 This website is for a tourist company. I developed the main page, where the user can read about the tours and book any of them. 
 To develop this project, I used only HTML and CSS. Also I used Sass when writing the styles. 

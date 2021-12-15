@@ -15,6 +15,7 @@ All of these CSS files besides ```'icon-font.css'``` make up a build process tha
 
 ## ✨ Demo
 Check out website:
+https://nastassii.github.io/Natours-project/
 
 
 ## ⚙️ How to run
